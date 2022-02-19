@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Raleway:wght@500;600;700&family=The+Nautigal&display=swap');
+
+h1 {
+  text-align: center;
+  margin-top: 300px;
+  font-size: 90px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 span:nth-child(1) {
+  color: #4285f4;
+}
+h1 span:nth-child(2) {
+  color: #ea4335;
+}
+h1 span:nth-child(3) {
+  color: #fbbc10;
+}
+h1 span:nth-child(4) {
+  color: #4285f4;
+}
+h1 span:nth-child(5) {
+  color: #34a853;
+}
+h1 span:nth-child(6) {
+  color: #ea4335;
+}
+.--search-bar {
+  width: 70%;
+}
+.search-icon {
+  background-color: white;
+}
